@@ -1,0 +1,12 @@
+---
+title: Arindam Chatterjee Effect Of Covid-19 On Indian Economy and Indian Stock Market
+output:
+  md_document:
+    df_print: paged
+date: "2023-05-18"
+---
+
+# R Markdown Document
+
+
+[Click here to view the PDF](https://drive.google.com/file/d/1jfOu_CYSTUTZzW-IwrojdUfwCOnmVB-i/view?usp=share_link)
