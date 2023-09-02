@@ -1,4 +1,23 @@
-# R Markdown Document
+R Markdown Document
 
-[Click here to view the
-PDF](https://drive.google.com/file/d/1uUCuVQdMn6nSqdFjyZnJ6p34KctFvM6s/view?usp=share_linkk)
+Title: Effects of COVID-19 On The Indian Economy, And On The Indian
+Stock Markets
+
+Author: Arindam Chatterjee
+
+Abstract The global outbreak of the Covid-19 pandemic has stopped many
+economic activities and no cure has been found to date to fight with
+Corona-Virus. It has produced a severe economic impact on the Indian
+Economy. The world is poised to get into a recession in F.Y.2020-’21.
+The Indian Economy was already in a gloomy state before Covid-19 struck.
+With the prolonged country-wide lockdown, global economic downturn, and
+associated disruption of demand and supply chains, the economy is likely
+to face a protracted period of slowdown and is likely to be in recession
+for some time to come. In this paper, I have assessed the potential
+impact of the shock on various segments of the economy and have analyzed
+the policies that have been announced so far by the Indian Govt. and the
+Reserve Bank of India to absorb the economic shock and put forward a set
+of policy recommendations for specific sectors.
+
+[Click here to view the Full
+Paper](https://drive.google.com/file/d/1VNnMwwdBUNclECYI-BNd0_dLRTGIkoae/view?usp=share_link)
